@@ -1,2 +1,6 @@
-# README.md
-BSc Computer Engineering👩🏻‍💻Green to Computer Vision 🌱
+# Hello It is Mahdieh 👋🏻
+
+- BSc student in Computer Engineering 🎓  
+- Python & Jupyter Notebook 🐍📓  
+- Learning Artificial Intelligence 🤖  
+- Learning Computer Vision 👁️
