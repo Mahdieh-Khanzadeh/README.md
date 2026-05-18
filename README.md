@@ -1,4 +1,4 @@
-# Hello It is Mahdieh 👋🏻
+# Hello I am Mahdieh 👋🏻
 
 - BSc student in Computer Engineering 🎓  
 - Python & Jupyter Notebook 🐍📓  
